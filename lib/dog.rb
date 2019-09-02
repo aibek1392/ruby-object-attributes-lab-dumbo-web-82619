@@ -1,8 +1,8 @@
 class Dog 
-  attr_accessor :name
-  def initialize(name)
-    @name = name
-  end
+  # attr_accessor :name
+  # def initialize(name)
+  #   @name = name
+  # end
 end
 
 dog = Dog.new("Rex")
