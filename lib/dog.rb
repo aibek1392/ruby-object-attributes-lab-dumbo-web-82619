@@ -7,4 +7,4 @@ class Dog
   
 end
 
-dog = Dog.new("Rex")
+# dog = Dog.new("Rex")
